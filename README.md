@@ -8,7 +8,7 @@ Goal:
 
 Attempting to use the [stats-options](https://webpack.js.org/configuration/stats/#stats-options) but not getting the desired results.
 
-https://github.com/bu-ist/wp-scripts-terminal/blob/6ae59f9af2d81b23f7b20c2dbcebce4302dda837/webpack.customizations.js#L50-L80
+https://github.com/bu-ist/wp-scripts-terminal/blob/6427baea6815cfe13850a6fe4f3fb32f5871631e/webpack.customizations.js#L50-L75
 
 ## OTHER FINDINGS
 
