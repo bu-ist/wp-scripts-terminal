@@ -54,7 +54,6 @@ const statsConfig = {
 	errorsSpace: 5,
 	errorStack: false,
 	errorDetails: false,
-	//
 	warnings: false, // Hide warnings.
 	colors: true, // Use colors for better readability.
 	modules: false, // Hide module details.
@@ -64,18 +63,14 @@ const statsConfig = {
 	entrypoints: true, // Hide the entry points with the corresponding bundles.
 	logging: 'none',
 	publicPath: false,
-	// @todo these are all ignored? the stack trace is too damn long and clutters the build
-	//
 	warningsSpace: 5,
 	reasonsSpace: 5,
-	//
 	moduleAssets: false,
 	moduleTrace: false,
 	modulesSpace: 5,
 	nestedModules: false,
 	nestedModulesSpace: 5,
 	chunkModulesSpace: 5,
-	//
 	assetsSpace: 5,
 };
 
