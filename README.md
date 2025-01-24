@@ -1,6 +1,6 @@
 # wp-scripts-terminal
 
-Trying to better understand and control the terminal output when using `wp-scripts build`
+Trying to better understand and control the terminal output when using `wp-scripts build`. This is a simple repo with an intentional error in the code so I can adjust what is displayed.
 
 Goal:
 
